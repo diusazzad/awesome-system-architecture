@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sfxglllk/sysarch.zengfy.top/
+    - /bin/cp -R . $DEPLOYPATH
