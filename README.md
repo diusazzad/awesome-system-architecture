@@ -25,7 +25,7 @@ Instead of writing application code, we focus on **System Physics**, **Enterpris
 
 <div align="center">
   <a href="https://sysarch.zengfy.top/">
-    <img src="assets/screenshot.png" alt="Live Site Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <img src="./assets/screenshot.png" alt="Live Site Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   </a>
 </div>
 
