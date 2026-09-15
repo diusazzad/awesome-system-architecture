@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - setup
+      - design
 
 jobs:
   deploy:
